@@ -1,17 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xml>
-    <Titulo>
-
-    </Titulo>
-    <Data>
-    21 de Fevereiro de 2022
-    </Data>
-    <Autor>
-    Angélica Soares Cunha
-    </Autor>
-    <UC>
-    Representação e Processamento de Conhecimento na Web
-    </UC>
-    <Resumo></Resumo>
-    <ListaDeResultados></ListaDeResultados>
-</xml>
+<doc>
+    <meta>
+        <titulo>
+            TPC2: File Server para páginas HTML
+        </titulo>
+        <data>
+            25 de Fevereiro de 2022
+        </data>
+        <autor>
+            <id>PG47024</id>
+            <nome>Angélica Soares Cunha</nome>
+        </autor>
+        <uc>
+            <sigla>RPCW2022</sigla>
+            <nome>Representação e Processamento de Conhecimento na Web</nome>
+        </uc>
+        <resumo>
+            <p>O objetivo do trabalho é criar uma página HTML para cada registo do </p>
+            <xref>
+                <url>https://epl.di.uminho.pt/~jcr/AULAS/ATP2021/datasets/cinemaATP.json</url>
+                <texto>dataset </texto> e um servidor para mostrar as páginas a pedido do utilizador.
+            </xref>
+        </resumo>
+        <resultados>
+            <resultado>
+                    <url>index.html</url>
+                    <texto>Página principal</texto>
+            </resultado>
+            <resultado>
+                <url>atores.html</url>
+                <texto>Página com lista de atores</texto>
+            </resultado>
+            <resultado>
+                <url>filmes.html</url>
+                <texto>Página com lista de filmes</texto>
+            </resultado>
+            <resultado>
+                <url>/filmes/fx.html</url>
+                <nome>Página html do filme x</nome>
+            </resultado>
+            <resultado>
+                <url>/atores/ax.html</url>
+                <nome>Página html do ator x</nome>
+            </resultado>
+            <resultado>
+                <url>fileserver.js</url>
+                <nome>Programa que inicia e mantém o servidor em execução</nome>
+            </resultado>
+            <resultado>
+                <url>cinemaATP.json</url>
+                <nome>Dataset</nome>
+            </resultado>
+            <resultado>
+                <url>parser.py</url>
+                <nome>Ficheiro que faz parse ao dataset e gera as páginas HTML</nome>
+            </resultado>
+        </resultados>
+    </meta>
+</doc>
