@@ -2,10 +2,10 @@
 <doc>
     <meta>
         <titulo>
-            TPC3: 
+            TPC3: JSON-Server to WebServer
         </titulo>
         <data>
-             de Fevereiro de 2022
+            14 de Fevereiro de 2022
         </data>
         <autor>
             <id>PG47024</id>
@@ -16,26 +16,18 @@
             <nome>Representação e Processamento de Conhecimento na Web</nome>
         </uc>
         <resumo>
-            <p>Primeiro parágrafo.</p>
-            <p>Segundo parágrafo.</p>
-            <p>
-                Terceiro parágrafo a apontar para o
-                <xref>
-                    <url>xml.com</url>
-                    <texto>XML</texto>
-                </xref>
-                .
-            </p>
+            <p> A partir de um dataset de uma escola de música, 
+                gerar páginas com a lista de alunos, cursos e instrumentos.</p>
         </resumo>
-        <!--resultados>
+        <resultados>
             <resultado>
-                    <url>index.html</url>
-                    <texto>Página web</texto>
+                <url>server.js</url>
+                <texto>Servidor web.</texto>
             </resultado>
             <resultado>
-                <url>styles.css</url>
-                <texto>Stylesheet do TPC</texto>
+                <url>db.json</url>
+                <texto>Dataset</texto>
             </resultado>
-        </resultados-->
+        </resultados>
     </meta>
 </doc>
