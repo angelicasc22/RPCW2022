@@ -1,0 +1,15 @@
+{
+  "name": "tpc4",
+  "version": "1.0.0",
+  "description": "TPC4 UC-RPCW",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Angélica Cunha",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

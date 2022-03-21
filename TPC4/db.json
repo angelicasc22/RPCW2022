@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "title": "Ir às aulas",
+      "description": "Amanhã",
+      "status": "pending",
+      "id": 1
+    },
+    {
+      "title": "Passear o cão",
+      "description": "Hoje, às 16h",
+      "status": "completed",
+      "id": 2
+    },
+    {
+      "title": "Ir às compras",
+      "description": "",
+      "status": "completed",
+      "id": 3
+    },
+    {
+      "title": "Tomar comprimido",
+      "description": "Hoje, às 20h",
+      "status": "pending",
+      "id": 4
+    }
+  ]
+}
