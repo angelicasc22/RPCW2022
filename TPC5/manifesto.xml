@@ -2,10 +2,10 @@
 <doc>
     <meta>
         <titulo>
-            TPC5: 
+            TPC5: Página de músicas com recuso a express
         </titulo>
         <data>
-             de Fevereiro de 2022
+            28 de Fevereiro de 2022
         </data>
         <autor>
             <id>PG47024</id>
@@ -16,26 +16,18 @@
             <nome>Representação e Processamento de Conhecimento na Web</nome>
         </uc>
         <resumo>
-            <p>Primeiro parágrafo.</p>
-            <p>Segundo parágrafo.</p>
-            <p>
-                Terceiro parágrafo a apontar para o
-                <xref>
-                    <url>xml.com</url>
-                    <texto>XML</texto>
-                </xref>
-                .
-            </p>
+            <p>Criação de um servidor web com recurso a Express.</p>
+            
         </resumo>
-        <!--resultados>
+        <resultados>
             <resultado>
-                    <url>index.html</url>
-                    <texto>Página web</texto>
+                    <url>arq-son-EVO.json</url>
+                    <texto>Ficheiro usado para o JSON-Server.</texto>
             </resultado>
             <resultado>
-                <url>styles.css</url>
-                <texto>Stylesheet do TPC</texto>
+                <url>format_db.py</url>
+                <texto>Script usado para manipular o ficheiro json.</texto>
             </resultado>
-        </resultados-->
+        </resultados>
     </meta>
 </doc>

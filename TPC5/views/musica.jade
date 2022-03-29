@@ -1,0 +1,36 @@
+extends layout
+
+block content
+  p 
+    b Título: 
+    span= musica.tit
+  p
+    b Artista:  
+    | #{musica.musico ? musica.musico : 'N/A'}
+  p
+    b Província: 
+    span= musica.prov
+  p
+    b Local: 
+    | #{musica.local ? musica.local : 'N/A'}
+  p
+    b Observação: 
+    | #{musica.obs ? musica.obs : 'N/A'}
+  p
+    b Local: 
+    | #{musica.local ? musica.local : 'N/A'}
+  p
+    b Instumentos: 
+    | #{musica.inst ? musica.inst : 'N/A'}    
+  p
+    b Ficheiro: 
+    | #{musica.file ? musica.file : 'N/A'}
+  p
+    b Tipo de Ficheiro: 
+    | #{musica.fileType ? musica.fileType : 'N/A'}
+  p
+    b Duração: 
+    | #{musica.duracao ? musica.duracao : 'N/A'}
+
+  button
+      a(href="/musicas") Voltar à Lista

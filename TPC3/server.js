@@ -222,3 +222,4 @@ http.createServer(async function(req, res){
     
     
 }).listen(4000)
+console.log("Servidor à escuta na porta 4000...")

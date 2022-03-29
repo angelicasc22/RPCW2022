@@ -1,0 +1,27 @@
+extends layout
+
+block content
+  h1 Lista de Músicas
+  form(action="/musicas")
+    select(name="prov" type="submit")
+      option(value="" selected disabled hidden) #{prov ? prov : "Província"}
+      option(value="") Todas 
+      option(value="Alentejo") Alentejo 
+      option(value="Beira Baixa") Beira Baixa
+      option(value="Minho") Minho
+      option(value="Estremadura") Estremadura
+      option(value="Alto Alentejo") Alto Alentejo
+      option(value="Douro Litoral") Douro Litoral
+    button(type="submit") GO
+   
+   table#escola 
+    tr 
+        th Título 
+        th Artista 
+        th Província
+    each m in musicas
+        tr 
+            td 
+             a(href="/musicas/" + m.id)= m.tit
+            td #{m.musico ? m.musico : 'N/A'}
+            td= m.prov
