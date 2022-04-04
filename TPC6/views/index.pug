@@ -1,0 +1,51 @@
+extends layout
+
+block content
+    .w3-card-4.w3-margin
+        header(class="w3-container w3-mycolor")
+            h3 Submissão de ficheiros 
+        form.w3-container.w3-margin(class='w3-container' method='POST' action='/submitFile' enctype="multipart/form-data")
+            .w3-row.w3-margin-bottom
+                .w3-col.s3
+                    label.w3-text-mycolor Ficheiro
+                .w3-col.s9.w3-border
+                    input.w3-input(type='file' name='myFile' required)
+            .w3-row.w3-margin-bottom
+                .w3-col.s3
+                    label.w3-text-mycolor Descrição
+                .w3-col.s9.w3-border
+                    input.w3-input(type='text' name='descricao' placeholder='Descrição do ficheiro')
+            .w3-row.w3-margin-bottom
+                .w3-col.s3
+                    label.w3-text-mycolor Submeter
+                .w3-col.s9.w3-border
+                    input.w3-input(type='submit' value='Submeter')
+    .w3-card-4.w3-margin
+        header(class="w3-container w3-mycolor")
+            h3 Lista de ficheiros 
+        if list.length > 0
+            .w3-container 
+            table.w3-table-all
+                tr 
+                    th Data
+                    th Nome
+                    th Tipo
+                    th Tamanho 
+                    th Descrição
+                each f in list
+                    tr
+                        td= f.data
+                        td= f._id
+                        td= f.mimetype 
+                        td= f.size
+                        td= f.descricao
+                        td 
+                            form.w3-container(class='w3-container' method='POST' action='/deleteFile/' + f._id)
+                                button.w3-btn.w3-pink.w3-round-large.w3-right
+                                    input.w3-input.w3-pink(type="submit" value = 'X')
+
+        else
+            .w3-container
+            p Não há ficheiros a apresentar...
+        footer.w3-container.w3-mycolor
+            address Gerado por dawApp :: 2022-Mar, Angélica

@@ -2,10 +2,10 @@
 <doc>
     <meta>
         <titulo>
-            TPC6: 
+            TPC6: Webapp de gestão de ficheiros gerada com Express
         </titulo>
         <data>
-             de Fevereiro de 2022
+            4 de Fevereiro de 2022
         </data>
         <autor>
             <id>PG47024</id>
@@ -15,27 +15,30 @@
             <sigla>RPCW2022</sigla>
             <nome>Representação e Processamento de Conhecimento na Web</nome>
         </uc>
-        <resumo>
-            <p>Primeiro parágrafo.</p>
-            <p>Segundo parágrafo.</p>
-            <p>
-                Terceiro parágrafo a apontar para o
-                <xref>
-                    <url>xml.com</url>
-                    <texto>XML</texto>
-                </xref>
-                .
-            </p>
-        </resumo>
-        <!--resultados>
-            <resultado>
-                    <url>index.html</url>
-                    <texto>Página web</texto>
-            </resultado>
-            <resultado>
-                <url>styles.css</url>
-                <texto>Stylesheet do TPC</texto>
-            </resultado>
-        </resultados-->
     </meta>
+    <resumo>
+        <p>Criação de um gestor de ficheiros com as seguintes funcionalidades: </p>
+        <p>Submeter ficheiro para a base de dados</p>
+        <p>Ver lista de ficheiros na base de dados</p>
+        <p>Apagar ficheiros da base de dados</p>
+
+    </resumo>
+    <resultados>
+        <resultado>
+            <url>./uploads/</url>
+            <texto>Diretoria onde são armazenados os ficheiros submetidos.</texto>
+        </resultado>
+        <resultado>
+            <url>./routes/index.js</url>
+            <texto>Rotas programadas para responder a pedidos</texto>
+        </resultado>
+        <resultado>
+            <url>./models/ficheiro.js</url>
+            <texto>Schema da base de dados, onde é colocada a estrutura de cada ficheiro guardado.</texto>
+        </resultado>
+        <resultado>
+            <url>./controllers/ficheiro.js</url>
+            <texto>Comunicação entre a base de dados e a aplicação.</texto>
+        </resultado>
+    </resultados>
 </doc>
