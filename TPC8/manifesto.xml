@@ -2,10 +2,10 @@
 <doc>
     <meta>
         <titulo>
-            TPC8: 
+            TPC8: MyPar
         </titulo>
         <data>
-             de Fevereiro de 2022
+            25 de Fevereiro de 2022
         </data>
         <autor>
             <id>PG47024</id>
@@ -16,26 +16,27 @@
             <nome>Representação e Processamento de Conhecimento na Web</nome>
         </uc>
         <resumo>
-            <p>Primeiro parágrafo.</p>
-            <p>Segundo parágrafo.</p>
-            <p>
-                Terceiro parágrafo a apontar para o
-                <xref>
-                    <url>xml.com</url>
-                    <texto>XML</texto>
-                </xref>
-                .
-            </p>
+            <p>Criar uma página onde é possível adicionar parágrafos e visualizar os parágragos adicionados.</p>
+            <p>Os parágrafos listados podem ser editados ou apagados. Os parágrafos estão armazenados numa base de dados MongoDB ligada a uma API.</p>
+            <p>O jQuery é utilizado para ir buscar os dados à API. </p>
         </resumo>
-        <!--resultados>
+        <resultados>
             <resultado>
-                    <url>index.html</url>
-                    <texto>Página web</texto>
+                    <url>./mypara.html</url>
+                    <texto>Template da página principal da aplicação, contém a informação estática.</texto>
             </resultado>
             <resultado>
-                <url>styles.css</url>
-                <texto>Stylesheet do TPC</texto>
+                <url>./srcipt.js</url>
+                <texto>Script jQuery responsável por atualizar dinamicamente a página e fazer pedidos à API</texto>
             </resultado>
-        </resultados-->
+            <resultado>
+                <url>./controllers/para.js</url>
+                <texto>Controlador, efetua a comunicação entre a base de dados e a API.</texto>
+            </resultado>
+            <resultado>
+                <url>./models/para.js</url>
+                <texto>Modelo que representa a estrutura de cada parágrafo na base de dados.</texto>
+            </resultado>
+        </resultados>
     </meta>
 </doc>
