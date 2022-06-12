@@ -8,7 +8,6 @@ var mongoose = require('mongoose')
 var mongoDB = 'mongodb://127.0.0.1/RPCWparas'
 mongoose.connect(mongoDB, {useNewUrlParser: true, useUnifiedTopology : true})
 var db = mongoose.connection
-
 db.on('error', console.error.bind(console, 'Erro de conexão ao MongoDB...'))
 db.once('open', function(){
   console.log("Conexão ao MongoDB realizada com sucesso!")
