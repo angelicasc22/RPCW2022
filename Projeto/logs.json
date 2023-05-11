@@ -1,5 +1,816 @@
 [
     {
+        "_id": "62bda2f4e615b76ea7258b4c",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-30T13:19:48.994Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda2c4e615b76ea7258b3e",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-30T13:19:00.157Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda2bee615b76ea7258b3b",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "logout",
+        "date": "2022-06-30T13:18:54.530Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda2aee615b76ea7258b34",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-30T13:18:38.715Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda2abe615b76ea7258b31",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62bda281e615b76ea7258b20",
+        "date": "2022-06-30T13:18:35.158Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda298e615b76ea7258b2c",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62bda281e615b76ea7258b20",
+        "date": "2022-06-30T13:18:16.341Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda284e615b76ea7258b27",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62bda281e615b76ea7258b20",
+        "date": "2022-06-30T13:17:56.250Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda26be615b76ea7258b1d",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-30T13:17:31.966Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda266e615b76ea7258b1a",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-30T13:17:26.488Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda239e615b76ea7258b11",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-30T13:16:41.311Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda232e615b76ea7258b0e",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "aluno",
+        "action": "logout",
+        "date": "2022-06-30T13:16:34.816Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda1e6e615b76ea7258b0a",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "aluno",
+        "action": "Download",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-30T13:15:18.909Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda1e5e615b76ea7258b07",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "aluno",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-30T13:15:17.823Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda1bfe615b76ea7258aff",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "aluno",
+        "action": "Visualização",
+        "recurso": "62ae01d8caec6f248948fbff",
+        "date": "2022-06-30T13:14:39.832Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda1b5e615b76ea7258afb",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "aluno",
+        "action": "Download",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-30T13:14:29.664Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda19de615b76ea7258af8",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "aluno",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-30T13:14:05.901Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda192e615b76ea7258aef",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "aluno",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-30T13:13:54.791Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda174e615b76ea7258aeb",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "aluno",
+        "action": "Visualização",
+        "recurso": "62ae01d8caec6f248948fbff",
+        "date": "2022-06-30T13:13:24.636Z",
+        "__v": 0
+    },
+    {
+        "_id": "62bda160e615b76ea7258ae7",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "aluno",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-30T13:13:04.188Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c7408e99fb5ae0b688b9",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-26T20:53:20.928Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c73c8e99fb5ae0b688b6",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "aluno",
+        "action": "logout",
+        "date": "2022-06-26T20:53:16.193Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c6f98e99fb5ae0b688aa",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "aluno",
+        "action": "Visualização",
+        "recurso": "62ae01cacaec6f248948fbf8",
+        "date": "2022-06-26T20:52:09.973Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c6f68e99fb5ae0b688a7",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "aluno",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-26T20:52:06.277Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c6f18e99fb5ae0b688a4",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "aluno",
+        "action": "Visualização",
+        "recurso": "62ae01d8caec6f248948fbff",
+        "date": "2022-06-26T20:52:01.765Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c6dc8e99fb5ae0b6889f",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "aluno",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-26T20:51:40.617Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c6d68e99fb5ae0b6889c",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "logout",
+        "date": "2022-06-26T20:51:34.013Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c6b28e99fb5ae0b68896",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-26T20:50:58.468Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c69d8e99fb5ae0b68892",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-26T20:50:37.694Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c69a8e99fb5ae0b6888f",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-26T20:50:34.794Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c6978e99fb5ae0b6888b",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-26T20:50:31.887Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c6948e99fb5ae0b68887",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-26T20:50:28.283Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c6908e99fb5ae0b68884",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-26T20:50:25.108Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c68b8e99fb5ae0b6887b",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-26T20:50:19.638Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c6888e99fb5ae0b68878",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-26T20:50:16.819Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c6788e99fb5ae0b68871",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-26T20:50:00.517Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c6718e99fb5ae0b6886e",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "logout",
+        "date": "2022-06-26T20:49:53.897Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c62d8e99fb5ae0b6886b",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-26T20:48:45.861Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b8c53f8e99fb5ae0b6885a",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-26T20:44:47.382Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b7244e30390c59881f4107",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-25T15:05:50.313Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b7240e30390c59881f4101",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62ae01d8caec6f248948fbff",
+        "date": "2022-06-25T15:04:46.666Z",
+        "__v": 0
+    },
+    {
+        "_id": "62b7240130390c59881f40fd",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-25T15:04:33.808Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af833edb5533cfb4ef8289",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-19T20:12:46.525Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af237ff8419e8442063633",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "logout",
+        "date": "2022-06-19T13:24:15.352Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af2370f8419e844206362f",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-19T13:24:00.799Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af2361f8419e8442063629",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-19T13:23:45.372Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af2322f8419e8442063620",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62ae01d8caec6f248948fbff",
+        "date": "2022-06-19T13:22:42.984Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af2313f8419e8442063617",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62ae01d8caec6f248948fbff",
+        "date": "2022-06-19T13:22:27.191Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af230df8419e8442063614",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-19T13:22:22.094Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af230af8419e844206360f",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-19T13:22:18.415Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af22f9f8419e844206360c",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "ana",
+        "action": "logout",
+        "date": "2022-06-19T13:22:01.143Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af20e65f8e1ef2c92beff1",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "ana",
+        "action": "Visualização",
+        "recurso": "62ae01d8caec6f248948fbff",
+        "date": "2022-06-19T13:13:10.976Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af20e35f8e1ef2c92befed",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "ana",
+        "action": "Visualização",
+        "recurso": "62ae01d8caec6f248948fbff",
+        "date": "2022-06-19T13:13:07.441Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af20d15f8e1ef2c92befe4",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "ana",
+        "action": "Visualização",
+        "recurso": "62ae01d8caec6f248948fbff",
+        "date": "2022-06-19T13:12:49.993Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af20ad5f8e1ef2c92befde",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "ana",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-19T13:12:13.514Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af20a95f8e1ef2c92befdb",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "logout",
+        "date": "2022-06-19T13:12:09.339Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af209a5f8e1ef2c92befd3",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-19T13:11:54.244Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af20955f8e1ef2c92befcf",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-19T13:11:49.667Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af20885f8e1ef2c92befc6",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-19T13:11:36.857Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af20815f8e1ef2c92befc2",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62ae01d8caec6f248948fbff",
+        "date": "2022-06-19T13:11:29.832Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af206e5f8e1ef2c92befbd",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62acb4489a800fa6856476ac",
+        "date": "2022-06-19T13:11:10.084Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af204b5f8e1ef2c92befba",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62acb4489a800fa6856476ac",
+        "date": "2022-06-19T13:10:35.590Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af20475f8e1ef2c92befb7",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62ae01d8caec6f248948fbff",
+        "date": "2022-06-19T13:10:31.631Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af202f5f8e1ef2c92befb2",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62ae01d8caec6f248948fbff",
+        "date": "2022-06-19T13:10:07.883Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af20205f8e1ef2c92befac",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62ae01d8caec6f248948fbff",
+        "date": "2022-06-19T13:09:53.074Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af20195f8e1ef2c92befa8",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62ae01d8caec6f248948fbff",
+        "date": "2022-06-19T13:09:45.751Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af1f1b5f8e1ef2c92bef99",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62ae01d8caec6f248948fbff",
+        "date": "2022-06-19T13:05:31.911Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af1f0c5f8e1ef2c92bef90",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62ae01d8caec6f248948fbff",
+        "date": "2022-06-19T13:05:16.404Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af1e854409ae5937782649",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62adcc509a688f63aa6292b0",
+        "date": "2022-06-19T13:03:02.021Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af1e7f8fea2e1898b16998",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62adcc509a688f63aa6292b0",
+        "date": "2022-06-19T13:02:55.495Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af1e7b8fea2e1898b16995",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62adcc509a688f63aa6292b0",
+        "date": "2022-06-19T13:02:51.107Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af1e778fea2e1898b16992",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62ae01d8caec6f248948fbff",
+        "date": "2022-06-19T13:02:47.634Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af1e253169bcd89e56c696",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62acb4489a800fa6856476ac",
+        "date": "2022-06-19T13:01:25.297Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af1e1f3169bcd89e56c693",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "Visualização",
+        "recurso": "62adcc509a688f63aa6292b0",
+        "date": "2022-06-19T13:01:19.229Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af04abac818d28d3178aeb",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-19T11:12:43.147Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af04a4ac818d28d3178ae8",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "logout",
+        "date": "2022-06-19T11:12:36.165Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af049fac818d28d3178ae2",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-19T11:12:31.523Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af0497ac818d28d3178adf",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "ana",
+        "action": "logout",
+        "date": "2022-06-19T11:12:23.143Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af0491ac818d28d3178ad9",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "ana",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-19T11:12:17.504Z",
+        "__v": 0
+    },
+    {
+        "_id": "62af048dac818d28d3178ad6",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "logout",
+        "date": "2022-06-19T11:12:13.364Z",
+        "__v": 0
+    },
+    {
+        "_id": "62ae1757f015aa7b8fbb947c",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-18T18:20:07.782Z",
+        "__v": 0
+    },
+    {
+        "_id": "62ae1751f015aa7b8fbb9479",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "ana",
+        "action": "logout",
+        "date": "2022-06-18T18:20:01.591Z",
+        "__v": 0
+    },
+    {
+        "_id": "62ae152d3a40d0289a79538c",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "ana",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-18T18:10:53.182Z",
+        "__v": 0
+    },
+    {
+        "_id": "62ae15263a40d0289a795389",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "logout",
+        "date": "2022-06-18T18:10:46.895Z",
+        "__v": 0
+    },
+    {
+        "_id": "62ae11152880dabdb3500e12",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "Visualização",
+        "recurso": "62ae11102880dabdb3500e0b",
+        "date": "2022-06-18T17:53:26.017Z",
+        "__v": 0
+    },
+    {
+        "_id": "62ae10c72880dabdb3500e06",
+        "user_id": "62a330380dad451cca7bb4b8",
+        "username": "prof",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-18T17:52:07.687Z",
+        "__v": 0
+    },
+    {
+        "_id": "62ae10c22880dabdb3500e03",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "logout",
+        "date": "2022-06-18T17:52:02.681Z",
+        "__v": 0
+    },
+    {
+        "_id": "62ae10bc2880dabdb3500dfe",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-18T17:51:56.025Z",
+        "__v": 0
+    },
+    {
+        "_id": "62ae10b22880dabdb3500dfb",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "ana",
+        "action": "logout",
+        "date": "2022-06-18T17:51:46.804Z",
+        "__v": 0
+    },
+    {
+        "_id": "62ae0fc82880dabdb3500ded",
+        "user_id": "62a6101198c6e3a7402da19d",
+        "username": "ana",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-18T17:47:52.434Z",
+        "__v": 0
+    },
+    {
+        "_id": "62ae0fc32880dabdb3500dea",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "logout",
+        "date": "2022-06-18T17:47:47.201Z",
+        "__v": 0
+    },
+    {
+        "_id": "62ae0d680edfef01c010c61a",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "login",
+        "recurso": "---",
+        "date": "2022-06-18T17:37:44.844Z",
+        "__v": 0
+    },
+    {
+        "_id": "62ae0cfc0edfef01c010c617",
+        "user_id": "62a37d330dad451cca7bb4bb",
+        "username": "admin",
+        "action": "logout",
+        "date": "2022-06-18T17:35:56.289Z",
+        "__v": 0
+    },
+    {
         "_id": "62ae01facaec6f248948fc22",
         "user_id": "62a37d330dad451cca7bb4bb",
         "username": "admin",

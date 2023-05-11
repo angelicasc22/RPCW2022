@@ -3,7 +3,7 @@ var mongoose = require('mongoose')
 var newSchema = new mongoose.Schema({
     user:{type:String,required:true},
     date:{type:String,required:false},
-    action:{type:Number,required:true},
+    action:{type:Number,required:true}, // 
     rec_name:{type:String,required:false},
     rec_id:{type:String,required:false},
     active:{type:Number,required:true},
